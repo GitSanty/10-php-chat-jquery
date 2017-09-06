@@ -1,0 +1,36 @@
+.bg-danger, .bg-success {
+	padding: 0 5px;
+}
+
+a {
+	color: #EF1F2F;
+	text-decoration: none;
+}
+
+iframe {
+  display:block;
+  margin-top: 20px;
+  margin-left: 0px;
+  width: 900px;
+  height: 400px;
+  
+}
+
+iframe#usr-frame{
+  display:block;
+  margin-top: 20px;
+  margin-left: 0px;
+  width:900px;
+  height: 46x;
+   
+     
+}
+
+.avatar {
+    margin: 10px 0 20px 0;
+}
+
+div#iframe1{
+height: 800px;   
+overflow-y : scroll;
+}
